@@ -1,0 +1,13 @@
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Investimento.dll
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Investimento.pdb
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Conexao.dll
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Conta.dll
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Conexao.pdb
+C:\Estudo\C#\Corretora\Investimento\bin\Debug\Conta.pdb
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.csproj.AssemblyReference.cache
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.FrmInvestir.resources
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.csproj.GenerateResource.cache
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.csproj.CoreCompileInputs.cache
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.csproj.CopyComplete
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.dll
+C:\Estudo\C#\Corretora\Investimento\obj\Debug\Investimento.pdb

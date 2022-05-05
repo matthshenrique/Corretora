@@ -1,0 +1,14 @@
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Cliente.dll
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Cliente.pdb
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Conexao.dll
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Conta.dll
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Conexao.pdb
+C:\Estudo\C#\Corretora\Cliente\bin\Debug\Conta.pdb
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.FrmCadastro.resources
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.FrmNovaConta.resources
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.dll
+C:\Estudo\C#\Corretora\Cliente\obj\Debug\Cliente.pdb

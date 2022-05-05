@@ -1,0 +1,15 @@
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\Conexao.dll
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\Conexao.pdb
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.AccessControl.dll
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.Permissions.dll
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.Principal.Windows.dll
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.AccessControl.xml
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.Permissions.xml
+C:\Estudo\C#\Corretora\Conexao\bin\Debug\System.Security.Principal.Windows.xml
+C:\Estudo\C#\Corretora\Conexao\obj\Debug\Conexao.csproj.AssemblyReference.cache
+C:\Estudo\C#\Corretora\Conexao\obj\Debug\Conexao.csproj.CoreCompileInputs.cache
+C:\Estudo\C#\Corretora\Conexao\obj\Debug\Conexao.csproj.CopyComplete
+C:\Estudo\C#\Corretora\Conexao\obj\Debug\Conexao.dll
+C:\Estudo\C#\Corretora\Conexao\obj\Debug\Conexao.pdb

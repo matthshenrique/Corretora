@@ -1,0 +1,12 @@
+C:\Estudo\C#\Corretora\Conta\bin\Debug\Conta.dll
+C:\Estudo\C#\Corretora\Conta\bin\Debug\Conta.pdb
+C:\Estudo\C#\Corretora\Conta\bin\Debug\Conexao.dll
+C:\Estudo\C#\Corretora\Conta\bin\Debug\Conexao.pdb
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.csproj.AssemblyReference.cache
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.FrmDepositar.resources
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.FrmResgatar.resources
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.csproj.GenerateResource.cache
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.csproj.CopyComplete
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.dll
+C:\Estudo\C#\Corretora\Conta\obj\Debug\Conta.pdb
